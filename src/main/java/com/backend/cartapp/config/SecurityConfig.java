@@ -76,7 +76,7 @@ public class SecurityConfig {
                 "http://localhost:5173",
                 "http://localhost:8081",
                 "http://localhost:4173",
-                "http://localhost:8080"
+                "http://44.206.222.168"
         ));
 
         configuration.setAllowedOriginPatterns(Arrays.asList("*"));
